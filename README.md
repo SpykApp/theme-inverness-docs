@@ -1,4 +1,4 @@
-# 🏴 Inverness — Premium Filament Theme
+# 🏞️ Inverness — Premium Filament Theme
 
 A refined, premium theme for [Filament](https://filamentphp.com) with tight spacing, subtle shadows, and dynamic primary color accents. Designed for Filament v4 and v5.
 
