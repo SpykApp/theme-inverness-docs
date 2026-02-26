@@ -1,11 +1,24 @@
 # 🏞️ Inverness — Premium Filament Theme
 
-A refined, premium theme for [Filament](https://filamentphp.com) with tight spacing, subtle shadows, and dynamic primary color accents. Designed for Filament v4 and v5.
+A refined, premium theme for [Filament](https://filamentphp.com) inspired by **Laravel's signature red aesthetic** — featuring tight spacing, subtle shadows, and dynamic primary color accents. Designed for Filament v4 and v5.
+
+> 🔴 Built around Laravel's iconic red identity. Clean, sharp, and unmistakably Laravel.
+
+---
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Dashboard](arts/screenshot-1.png) | ![Table View](arts/screenshot-2.png) |
+| ![Form View](arts/screenshot-3.png) | ![Dark Mode](arts/screenshot-4.png) |
+| ![Sidebar Active](arts/screenshot-5.png) | ![Modal View](arts/screenshot-6.png) |
 
 ---
 
 ## Features
 
+- **Laravel Red Inspired** — Designed around Laravel's iconic red identity for a cohesive look
 - **Tight border-radius** — Clean 4px corners across all components
 - **Dynamic primary color** — Automatically adapts to your panel's configured primary color
 - **Refined shadows** — Subtle, layered box-shadows for light & dark modes
